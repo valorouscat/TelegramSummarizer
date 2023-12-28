@@ -1,0 +1,8 @@
+/.env
+/.locks
+/.venv
+/logs.log
+/test.py
+/tests
+/tmpcmq1iz73
+/__pycache__
